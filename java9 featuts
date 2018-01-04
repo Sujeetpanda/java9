@@ -1,0 +1,12 @@
+1) Jshell
+2) JPMS(Java platform module system)
+3) JLINK
+4) HTTP/2 Client
+5) Process API updates
+6) Private method inside interface
+7) try with resource enhancement
+8) Factory method to create unmodifieble collections
+9) Stream API enhancement
+10) <> operator enhancement
+11) SafeVarargs Annotation
+12) G1GC
